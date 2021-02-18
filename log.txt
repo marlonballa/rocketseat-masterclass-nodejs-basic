@@ -1,0 +1,12 @@
+Mensagem qualquerRodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Rodando...Mensagem qualquer{"free":"3481 Gb","used":"57%","total":"8131 Gb"}{"free":"3507 Gb","used":"57%","total":"8131 Gb"}{"free":"3509 Gb","used":"57%","total":"8131 Gb"}{"free":"3511 Gb","used":"57%","total":"8131 Gb"}{"free":"3509 Gb","used":"57%","total":"8131 Gb"}{"free":"3510 Gb","used":"57%","total":"8131 Gb"}{"free":"3516 Gb","used":"57%","total":"8131 Gb"}{"free":"3518 Gb","used":"57%","total":"8131 Gb"}{"free":"3516 Gb","used":"57%","total":"8131 Gb"}{"free":"3520 Gb","used":"57%","total":"8131 Gb"}{"free":"3514 Gb","used":"57%","total":"8131 Gb"}{"free":"3523 Gb","used":"57%","total":"8131 Gb"}Mensagem qualquer{"free":"3579 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3577 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3579 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3580 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3576 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3578 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3577 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3576 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3574 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3578 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3569 Gb","used":"56%","total":"8131 Gb"} 
+{"free":"3569 Gb","used":"56%","total":"8131 Gb"} 
