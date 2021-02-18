@@ -1,14 +1,14 @@
 const os = require('os')
-const { freemem, totalmem} = os
-
-const free = Math.round(freemem()/(1024*1024))
-const total = Math.round(totalmem()/(1024*1024))
-
-console.log("Free memory: " + free + " Gb")
-console.log("Total memory: " + total + " Gb")
-console.log("Used memory: " + Math.round(100 - (free/total)*100) + "%")
-
-
-
-
-
+setInterval( () => {
+    const { freemem, totalmem} = os
+    const free = Math.round(freemem()/(1024*1024))
+    const total = Math.round(totalmem()/(1024*1024))
+    const used = Math.round(100 - (free/total)*100)
+    const stats = {
+        free: `${free} Gb`,
+        used: `${used}%`,
+        total: `${total} Gb`
+    }
+    console.clear()
+    console.table(stats)
+}, 1000)
