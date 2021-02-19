@@ -19,6 +19,9 @@ http
   .createServer((req, resp) => {
     const { name, url, del } = URL.parse(req.url, true).query;
 
+    resp.writeHead(200, {
+        'Access-control-Allow-Origin':'*'
+    })
     //all resources
     if (!name || !url) return resp.end(JSON.stringify(data));
 
